@@ -9,7 +9,7 @@ $op = (isset($_POST['op']))?$_POST['op']:'';
     <meta charset="utf-8" />
     <meta name="author" content="Matheus Nervis da Silva">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Calculadora</title>
+    <title>Calculadora 1.0b</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
     <script src="script.js"></script>
