@@ -1,0 +1,16 @@
+.msg_error {
+    color: #ff0000;
+}
+input {
+    width: 284px;
+}
+input[type=submit] {
+    width: 300px;
+}
+select {
+    width: 300px;
+}
+form {
+    margin-left: calc(50% - 150px);
+    margin-top: 200px;
+}
